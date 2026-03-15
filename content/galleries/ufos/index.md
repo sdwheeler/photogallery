@@ -2,6 +2,7 @@
 title: Unfinished objects (UFOs)
 date: 2026-03-14
 categories: [cross-stitch, ufo]
+weight: 30
 ---
 <!-- markdownlint-disable MD041 -->
 These are some cross stitch projects that my wife has finished stitching but not quite completed.
