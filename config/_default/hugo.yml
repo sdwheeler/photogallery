@@ -1,0 +1,77 @@
+module:
+  hugoVersion:
+    min: 0.121.2
+  imports:
+    - path: github.com/nicokaiser/hugo-theme-gallery/v4
+
+build:
+  publishResources: false
+
+baseURL: https://sdwheeler.github.io/photogallery/
+copyright: © Sean D. Wheeler
+defaultContentLanguage: en
+disableKinds:
+  - taxonomy
+enableRobotsTXT: true
+languageCode: en
+timeZone: US/Central
+timeout: 120s
+title: Gallery
+
+params:
+  defaultTheme: dark
+  description: Cross stitch project showcase for Kristy with a K and a Y
+  title: Gallery
+  socialIcons:
+    #facebook: https://www.facebook.com/
+    instagram: https://www.instagram.com/kristy_with_a_k_and_a_y/
+    youtube: https://www.youtube.com/@kristywithak2248
+    #email: mailto:user@example.com
+    github: https://github.com/sdwheeler
+    linkedin: https://linkedin.com/in/scriptingsean
+  gallery: {}
+
+outputs:
+  home:
+    - HTML
+    - RSS
+  page:
+    - HTML
+  section:
+    - HTML
+imaging:
+  quality: 75
+  resampleFilter: CatmullRom
+  exif:
+    disableDate: false
+    disableLatLong: true
+    includeFields: ImageDescription|Orientation
+
+menu:
+  footer:
+    - name: GitHub
+      url: 'https://github.com/nicokaiser/hugo-theme-gallery/'
+      weight: 3
+services:
+  rss:
+    limit: 100
+
+related:
+  includeNewer: true
+  threshold: 10
+  toLower: false
+  indices:
+    - applyFilter: false
+      cardinalityThreshold: 0
+      name: categories
+      pattern: ''
+      toLower: false
+      type: basic
+      weight: 10
+    - applyFilter: false
+      cardinalityThreshold: 0
+      name: keywords
+      pattern: ''
+      toLower: false
+      type: basic
+      weight: 50

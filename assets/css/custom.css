@@ -1,0 +1,20 @@
+/* This file is for custom CSS overrides. It is included in the build process and can be used to override any styles from the default theme or add new styles as needed. */
+:root {
+  color-scheme: light dark;
+
+  --surface-1-light: #fff;
+  --surface-2-light: #e5e5e5;
+  --text-1-light: #0a0a0a;
+  --text-2-light: #737373;
+  --border-light: #bbb;
+  --surface-1-dark: #1d1e2c;
+  --surface-2-dark: #404040;
+  --text-1-dark: #fafafa;
+  --text-2-dark: #a3a3a3;
+  --border-dark: #606060;
+  --surface-1: var(--surface-1-light);
+  --surface-2: var(--surface-2-light);
+  --text-1: var(--text-1-light);
+  --text-2: var(--text-2-light);
+  --border: var(--border-light);
+}

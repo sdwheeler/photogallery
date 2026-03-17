@@ -1,6 +1,2 @@
-github.com/bep/galleriesdeluxe v0.5.0 h1:DrcEE39r4YFFVaEvvWPy+sIX+LxuJxhlXwJumfST3yw=
-github.com/bep/galleriesdeluxe v0.5.0/go.mod h1:CynK4PBmglEMApBngTGR8SVwzm4UKo3X8oWO3fkI49U=
-github.com/bep/gallerydeluxe v0.13.0 h1:WN1frUKbDlkecpZEWbAhxBHVaRPqiBhj764HG1rHLc4=
-github.com/bep/gallerydeluxe v0.13.0/go.mod h1:sUfRcjREo6DwxPo0sMp0TAxNZiGreOY6DY2dWGpSeR8=
-github.com/bep/hugo-mod-misc/common-partials v0.1.0 h1:SiGnrf9MW1aFczXpXPTDpsGr3SvimIaBXMpZucPxT+g=
-github.com/bep/hugo-mod-misc/common-partials v0.1.0/go.mod h1:lw2586uqPfye9yTYgSyvZwU3dfpZcjDXmIOJeR4D6O0=
+github.com/nicokaiser/hugo-theme-gallery/v4 v4.9.3 h1:7HKtUwUgNXVi+E3M7dQw18RrLAOF4xcDgDlxFAt52rY=
+github.com/nicokaiser/hugo-theme-gallery/v4 v4.9.3/go.mod h1:oVtY67dE9NbaJw9jM4G5moHAcgT/UXxdcIQhs52KPoU=

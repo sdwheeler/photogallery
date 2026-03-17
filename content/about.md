@@ -1,6 +1,10 @@
 ---
+layout: prose
+rss_ignore: true
 title: About
-layout: about
+menu:
+  main:
+    weight: 900
 ---
 <!-- markdownlint-disable MD041 -->
 
