@@ -1,7 +1,7 @@
 ---
-title: Finished projects
+title: Fully finished projects
 date: 2026-03-14
-categories: [cross-stitch, finished]
+categories: [cross-stitch, fully-finished]
 weight: 10
 featured_image: FirstIDrinkTheCoffee.jpg
 menu:
@@ -9,4 +9,4 @@ menu:
     weight: 10
 ---
 <!-- markdownlint-disable MD041 -->
-These are some cross stitch projects that my wife has completed.
+These are some fully finished cross stitch projects that my wife has completed.

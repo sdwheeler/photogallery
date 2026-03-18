@@ -1,7 +1,7 @@
 ---
-title: Unfinished objects (UFOs)
+title: To be framed
 date: 2026-03-14
-categories: [cross-stitch, ufo]
+categories: [cross-stitch]
 weight: 30
 featured_image: IHeardTheMountainWind.jpg
 menu:
