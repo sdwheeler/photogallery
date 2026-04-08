@@ -15,7 +15,7 @@ resources:
       DMC floss. 139,500 stitches.
   - src: Larry.jpg
     title: |
-      The Favorite by Omar Rayyan - Charted by Heaven and Earth Designs. Framed by The Peanut Gallery.
+      The Favorite by Omar Rayyan - Charted by Heaven and Earth Designs.
   - src: Octopus.webp
     title: |
       Octopus by Jeff Haynie - Charted by Heaven and Earth Designs. Framed by The Peanut Gallery.
