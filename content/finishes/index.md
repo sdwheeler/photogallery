@@ -10,37 +10,34 @@ menu:
 resources:
   - src: AutumnQuaker.jpg
     title: |
-      Framed by The Peanut Gallery.
+      Autumn Quakers by Rosewood Manor.
   - src: ballerinapigs.jpg
     title: |
-      Framed by The Peanut Gallery.
+      Ballet Pig by Sarah Butcher. Charted by HAED. Framed by The Peanut Gallery.
   - src: BrownFishOwl.jpg
     title: |
-      Framed by The Peanut Gallery.
+      Brown Fish Owl by Kathy Barrick. Framed by The Peanut Gallery.
   - src: FirstIDrinkTheCoffee.jpg
     title: |
-      Framed by The Peanut Gallery.
+      Coffee Quaker by Heartsting Samplery. Framed by The Peanut Gallery.
   - src: HomeSweetHome.jpg
     title: |
-      Framed by The Peanut Gallery.
+      Home Sweet Home by By the Bay Needle Arts. Framed by The Peanut Gallery.
   - src: OhDear.jpg
     title: |
-      Framed by The Peanut Gallery.
+      Oh Dear by Kathy Barrick. Framed by The Peanut Gallery.
   - src: RussianBookHouses.jpg
     title: |
-      Framed by The Peanut Gallery.
-  - src: SamplerWall.jpg
-    title: |
-      Framed by The Peanut Gallery.
+      Kingdom of Books. Framed by The Peanut Gallery.
   - src: TheDuchessofRouen.jpg
     title: |
-      Framed by The Peanut Gallery.
+      The Duchess of Rouen by Nora Corbet. Framed by The Peanut Gallery.
   - src: WhachetAuf.jpg
     title: |
-      Framed by The Peanut Gallery.
+      Whachet Auf
   - src: YearAtHawkRunHollow.jpg
     title: |
-      Framed by The Peanut Gallery.
+      A Year at Hawk Run Hollow by Carriage House Samplings. Framed by The Peanut Gallery.
 ---
 <!-- markdownlint-disable MD041 -->
 These are some fully finished cross stitch projects that my wife has completed. Many of these were
