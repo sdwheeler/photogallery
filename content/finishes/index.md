@@ -3,17 +3,28 @@ title: Fully finished projects
 date: 2026-03-14
 categories: [cross-stitch, fully-finished]
 weight: 10
-featured_image: FirstIDrinkTheCoffee.jpg
+featured_image: love-misc.jpg
 menu:
   main:
     weight: 10
 resources:
+  - src: ChessBooks.jpg
+    title: |
+      Chess Game Books by Jonathan Wolstenholme - Charted by Heaven and Earth Designs. Started May
+      3, 2014. Finished April 23, 2015 Stitched on 18 count Aida 2 over 1 full cross. 86 colors of
+      DMC floss. 139,500 stitches.
+  - src: Larry.jpg
+    title: |
+      The Favorite by Omar Rayyan - Charted by Heaven and Earth Designs.
+  - src: Octopus.webp
+    title: |
+      Octopus by Jeff Haynie - Charted by Heaven and Earth Designs. Framed by The Peanut Gallery.
   - src: AutumnQuaker.jpg
     title: |
       Autumn Quakers by Rosewood Manor.
   - src: ballerinapigs.jpg
     title: |
-      Ballet Pig by Sarah Butcher. Charted by HAED. Framed by The Peanut Gallery.
+      Ballet Pigs by Sarah Butcher. Charted by HAED. Framed by The Peanut Gallery.
   - src: BrownFishOwl.jpg
     title: |
       Brown Fish Owl by Kathy Barrick. Framed by The Peanut Gallery.
