@@ -13,6 +13,12 @@ resources:
       Chess Game Books by Jonathan Wolstenholme - Charted by Heaven and Earth Designs. Started May
       3, 2014. Finished April 23, 2015 Stitched on 18 count Aida 2 over 1 full cross. 86 colors of
       DMC floss. 139,500 stitches.
+  - src: Larry.jpg
+    title: |
+      The Favorite by Omar Rayyan - Charted by Heaven and Earth Designs. Framed by The Peanut Gallery.
+  - src: Octopus.webp
+    title: |
+      Octopus by Jeff Haynie - Charted by Heaven and Earth Designs. Framed by The Peanut Gallery.
 ---
 <!-- markdownlint-disable MD041 -->
 These are the HAED (Heaven and Earth Designs) cross stitch patterns that my wife has completed.
